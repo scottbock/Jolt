@@ -1,0 +1,16 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "state": "region.value"
+    }
+  },
+  {
+    "operation": "default",
+    "spec": {
+      "region": {
+        "type": "STATE"
+      }
+    }
+  }
+]

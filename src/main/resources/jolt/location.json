@@ -1,0 +1,13 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "latitude": {
+        "@(1,longitude)": {
+          "@(2,latitude)": "location.latitude",
+          "@(2,longitude)": "location.longitude"
+        }
+      }
+    }
+  }
+]

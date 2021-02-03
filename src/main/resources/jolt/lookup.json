@@ -1,0 +1,11 @@
+[
+  {
+    "operation" : "transform.LookupTransform",
+    "spec" : {
+      "personId": {
+        "url" : "https://localhost:8080/person/",
+        "key": "person"
+      }
+    }
+  }
+]
